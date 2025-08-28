@@ -27,5 +27,5 @@ This repo contains Python assignments that demonstrate **Object-Oriented Program
 ## 🚀 How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/python-oop-assignments.git
+   git clone https://github.com/simonkirema/python-oop-assignments.git
    cd python-oop-assignments
